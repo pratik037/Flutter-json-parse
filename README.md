@@ -1,6 +1,8 @@
 # parsing_trial
 
 A new Flutter project.
+It shows how to fetch data from a RestAPI and display it inside an app.
+The RestAPI used is an fake rest api from jsonplaceholder.typicode.
 
 ## Getting Started
 
